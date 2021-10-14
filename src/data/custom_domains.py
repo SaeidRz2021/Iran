@@ -38,5 +38,6 @@ custom_domains = {
         "sut.ac.ir",
         "digikalajet.com",
         "tci.ir",
+        "bixpay.ir",
     ],
 }
